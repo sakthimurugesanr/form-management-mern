@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Careflow appointment management
 
 React + TypeScript + Redux Toolkit frontend, shadcn-style Radix UI components, Tailwind CSS, Recharts, Sonner toasts, and Express + TypeScript + PostgreSQL backend. Public visitors do not need an account. Only administrators can access patient records and dashboard management.
@@ -38,3 +39,6 @@ Run `npm test` for booking validation tests and `npm run build` for type checkin
 Requests are appointments awaiting clinic confirmation. This app does not enforce doctor availability or prevent overlapping requests. Alerts are in-dashboard only; email/SMS delivery is not configured. Add those services if your workflow needs reminders outside the app.
 
 Before using real clinical data, configure backups, retention, access monitoring, incident response and any privacy requirements that apply to your organization. The application has no clinical record upload or medical advice features.
+=======
+# form-management-mern
+>>>>>>> 5d24e2cd404f520f8dbc9eefaa65bea78868cadd
