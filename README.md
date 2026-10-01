@@ -3,6 +3,8 @@
 
 React + TypeScript + Redux Toolkit frontend, shadcn-style Radix UI components, Tailwind CSS, Recharts, Sonner toasts, and Express + TypeScript + PostgreSQL backend. Public visitors do not need an account. Only administrators can access patient records and dashboard management.
 
+The public form is centered on a dark navy background with blue-and-white or blue-and-dark card themes. It uses React Hook Form, Radix Select/Checkbox/Popover/Label components, reusable styled inputs and textareas, and a React Day Picker calendar with local-time selection. Small screens use a single-column layout. No marketing panel appears beside the form.
+
 ## Start locally
 
 1. Install Node.js 22.12+ and PostgreSQL (or Docker).
